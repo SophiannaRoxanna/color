@@ -1,0 +1,48 @@
+h1 {
+    color: rgb(0,0,0,1);
+}
+
+h2 {
+    color: rgb(16, 14, 121);
+    background-color: whitesmoke;
+    width: 200px;
+}
+
+h3 {
+    color: rgb(11,99,150);
+}
+
+h4 {
+    background-color: rgba(62, 40, 161, 0.781);
+    width: 50px;
+    color: whitesmoke;
+}
+
+body {
+    background-color: rgb(200,200,200);
+}
+
+div {
+    background-color: rgb(21, 156, 27);
+    height: 280px;
+    width: 38%;
+    padding: 5px;
+    border-radius: 13px;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+span {
+    color: red;
+}
+
+.uba {
+    background-color: firebrick;
+}
+
+.fidelity {
+    background-color: rgb(24, 124, 24);
+}
+
+.first {
+    background-color: rgb(30, 30, 173);
+}
